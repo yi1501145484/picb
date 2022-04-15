@@ -1,0 +1,24 @@
+# SwitchHosts!
+
+# My hosts
+127.0.0.1 m.youting.com
+127.0.0.1 m.dcg.com admin.dcg.com
+127.0.0.1 www.dyutp.com admin.dyutp.com cw.dyutp.com
+127.0.0.1 www.tpadmin.com
+127.0.0.1 www.jianzhi.com
+127.0.0.1 www.laravel.com
+127.0.0.1 www.gc10000.com
+127.0.0.1 www.test.com
+127.0.0.1 www.bole.com admin.bole.com mapi.bole.com
+127.0.0.1 www.mmxgc.com
+127.0.0.1 www.ttlapp.com
+127.0.0.1 www.meilong.com admin.meilong.com m.meilong.com
+127.0.0.1 localhost
+
+140.82.112.4 github.com
+199.232.69.194 github.global.ssl.fastly.net
+185.199.108.153 assets-cdn.github.com
+185.199.110.153 assets-cdn.github.com
+185.199.111.153 assets-cdn.github.com
+127.0.0.1 www.meilong.com
+127.0.0.1 admin.meilong.com
